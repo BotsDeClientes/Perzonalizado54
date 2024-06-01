@@ -14,8 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["51926933818", '𝗖𝗿𝗶𝘀 🇾🇪', true],
-["51912096975", '𝗝𝗲𝗻𝗻 🇾🇪', true], //𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪
-["51981983121", '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪', true]]
+["5493878303125", '𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸', true]]
 
 global.mods = []
 global.prems = []
@@ -113,8 +112,7 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["51926933818", '𝗖𝗿𝗶𝘀 🇾🇪', 1], 
-["51912096975", '𝗝𝗲𝗻𝗻 🇾🇪', 1], 
-["51981983121", '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪', 1]]
+["5493878303125", '𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -123,7 +121,7 @@ global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.packname = "𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪"
-global.author = "𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪"
+global.author = "𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +129,7 @@ global.author = "𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = ""
 global.vsJB = ""
-global.gt = "𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪"
+global.gt = "𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸"
 
 global.yt = "https://www.instagram.com/cristhofer_yallico"
 global.yt2 = "https://www.instagram.com/jenn_dzzn"
@@ -185,8 +183,8 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪"
-global.igfg = "𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪"
+global.wm = "𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸"
+global.igfg = "𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
