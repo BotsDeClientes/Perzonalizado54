@@ -84,13 +84,13 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━〔 *🌸 LuchitxBot Creador 🌸* 〕
-*┃➤ Creadores : LuchitxBot 🌸*
+ ╭━〔 *🌸 LuchitxBot Creadora 🌸* 〕
+*┃➤ Creadora : LuchitxBot 🌸*
 *┃➤ Instagram : https://www.instagram.com/cristhofer_yallico 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Instagram : https://www.instagram.com/jenn_dzzn 🙈*
-*┃➤ Yape 1 : +51 991 619 710 💸*
-*┃➤ Yape 2 : +51 955 250 033 💸*
+*┃➤ Yape Donar : +51 991 619 710 💸*
+*┃➤ Yape Donar : +51 955 250 033 💸*
  ╰━━━━━━━━━━━━━
 
   ╭━〔 *🌸 LuchitxBot Adquirir 🌸* 〕
