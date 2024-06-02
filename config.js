@@ -131,34 +131,34 @@ global.vs = ""
 global.vsJB = ""
 global.gt = "𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸"
 
-global.yt = "https://www.instagram.com/cristhofer_yallico"
-global.yt2 = "https://www.instagram.com/jenn_dzzn"
-global.ig = "https://www.instagram.com/jenn_dzzn"
-global.md = "https://www.instagram.com/jenn_dzzn"
-global.fb = "https://www.instagram.com/jenn_dzzn"
-global.tk = "https://www.instagram.com/cristhofer_yallico"
-global.ths = "https://www.instagram.com/cristhofer_yallico"
-global.paypal = 'https://www.instagram.com/cristhofer_yallico'
+global.yt = "https://www.instagram.com/Luchitx_17"
+global.yt2 = "https://www.instagram.com/Luchitx_17"
+global.ig = "https://www.instagram.com/Luchitx_17"
+global.md = "https://www.instagram.com/Luchitx_17"
+global.fb = "https://www.instagram.com/Luchitx_17"
+global.tk = "https://www.instagram.com/Luchitx_17"
+global.ths = "https://www.instagram.com/Luchitx_17"
+global.paypal = 'https://www.instagram.com/Luchitx_17'
 global.asistencia = 'https://wa.me/51926933818?text=Hola%20Cris%20Deseo%20Comprar%20El%20Bot%20:3' //Contacto
 global.bot = 'https://wa.me/51926933818?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.instagram.com/cristhofer_yallico' // Cuentas
-global.nn2 = 'https://www.instagram.com/jenn_dzzn' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/cristhofer_yallico' // Help
-global.nn = 'https://www.instagram.com/cristhofer_yallico' // Grupo 1
-global.nnn = 'https://www.instagram.com/jenn_dzzn' // Grupo 2
-global.nnnt = 'https://www.instagram.com/jenn_dzzn' // Grupo 3
-global.nnntt = 'https://www.instagram.com/jenn_dzzn' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/jenn_dzzn' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/jenn_dzzn' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/jenn_dzzn' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/jenn_dzzn' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/jenn_dzzn' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/jenn_dzzn' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/cristhofer_yallico' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/cristhofer_yallico'
-global.channel2 = 'https://www.instagram.com/cristhofer_yallico'
-global.channel3 = 'https://www.instagram.com/cristhofer_yallico'
+global.nna = 'https://www.instagram.com/Luchitx_17' // Cuentas
+global.nn2 = 'https://www.instagram.com/Luchitx_17' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/Luchitx_17' // Help
+global.nn = 'https://www.instagram.com/Luchitx_17' // Grupo 1
+global.nnn = 'https://www.instagram.com/Luchitx_17' // Grupo 2
+global.nnnt = 'https://www.instagram.com/Luchitx_17' // Grupo 3
+global.nnntt = 'https://www.instagram.com/Luchitx_17' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/Luchitx_17' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/Luchitx_17' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/Luchitx_17' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/Luchitx_17' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/Luchitx_17' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/Luchitx_17' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/Luchitx_17' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/Luchitx_17'
+global.channel2 = 'https://www.instagram.com/Luchitx_17'
+global.channel3 = 'https://www.instagram.com/Luchitx_17'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
