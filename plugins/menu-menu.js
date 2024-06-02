@@ -86,9 +86,8 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 let menu =`
  ╭━〔 *🌸 LuchitxBot Creadora 🌸* 〕
 *┃➤ Creadora : LuchitxBot 🌸*
-*┃➤ Instagram : https://www.instagram.com/cristhofer_yallico 😻*
+*┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
-*┃➤ Instagram : https://www.instagram.com/jenn_dzzn 🙈*
 *┃➤ Yape Donar : +51 991 619 710 💸*
 *┃➤ Yape Donar : +51 955 250 033 💸*
  ╰━━━━━━━━━━━━━
