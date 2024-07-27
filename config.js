@@ -14,6 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["5493878249889", '𝗖𝗿𝗶𝘀 🇾🇪', true],
+["51926933818", '𝗖𝗿𝗶𝘀 🇾🇪', true],
 ["5493878303125", '𝗟𝘂𝗰𝗵𝗶𝘁𝘅𝗕𝗼𝘁 🌸', true]]
 
 global.mods = []
@@ -142,23 +143,23 @@ global.paypal = 'https://www.instagram.com/Luchitx_17'
 global.asistencia = 'https://wa.me/51926933818?text=Hola%20Cris%20Deseo%20Comprar%20El%20Bot%20:3' //Contacto
 global.bot = 'https://wa.me/51926933818?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.instagram.com/Luchitx_17' // Cuentas
-global.nn2 = 'https://www.instagram.com/Luchitx_17' // Grupo tg GataBot
+global.nna = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // Cuentas
+global.nn2 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // Grupo tg GataBot
 global.nna2 = 'https://www.instagram.com/Luchitx_17' // Help
-global.nn = 'https://www.instagram.com/Luchitx_17' // Grupo 1
+global.nn = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // Grupo 1
 global.nnn = 'https://www.instagram.com/Luchitx_17' // Grupo 2
 global.nnnt = 'https://www.instagram.com/Luchitx_17' // Grupo 3
 global.nnntt = 'https://www.instagram.com/Luchitx_17' // Grupo 4
 global.nnnttt = 'https://www.instagram.com/Luchitx_17' // Grupo 5
 global.nnnttt1 = 'https://www.instagram.com/Luchitx_17' // Grupo 6 COL
 global.nnnttt2 = 'https://www.instagram.com/Luchitx_17' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/Luchitx_17' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/Luchitx_17' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/Luchitx_17' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/Luchitx_17' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/Luchitx_17'
-global.channel2 = 'https://www.instagram.com/Luchitx_17'
-global.channel3 = 'https://www.instagram.com/Luchitx_17'
+global.nnnttt3 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // MULTI - BOTS
+global.nnnttt6 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // A.T.M.M
+global.channel1 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV'
+global.channel2 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV'
+global.channel3 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
